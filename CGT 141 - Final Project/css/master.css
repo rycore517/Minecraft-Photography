@@ -1,6 +1,12 @@
 * {
     box-sizing: border-box;
   }
+  body{
+    background-color: #976D4D;
+  }
+  .navbar{
+    background-color: #4a6f28;
+  }
   
   /* Style inputs */
   input[type=text], select, textarea {
